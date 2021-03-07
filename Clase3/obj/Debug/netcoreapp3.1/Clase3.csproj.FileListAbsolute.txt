@@ -1,0 +1,13 @@
+C:\Users\Alejandro\source\repos\Clase3\Clase3\obj\Debug\netcoreapp3.1\Clase3.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\Clase3\Clase3\obj\Debug\netcoreapp3.1\Clase3.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\Clase3\Clase3\obj\Debug\netcoreapp3.1\Clase3.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\Clase3\Clase3\obj\Debug\netcoreapp3.1\Clase3.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Clase3\Clase3\bin\Debug\netcoreapp3.1\Clase3.exe
+C:\Users\Alejandro\source\repos\Clase3\Clase3\bin\Debug\netcoreapp3.1\Clase3.deps.json
+C:\Users\Alejandro\source\repos\Clase3\Clase3\bin\Debug\netcoreapp3.1\Clase3.runtimeconfig.json
+C:\Users\Alejandro\source\repos\Clase3\Clase3\bin\Debug\netcoreapp3.1\Clase3.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\Clase3\Clase3\bin\Debug\netcoreapp3.1\Clase3.dll
+C:\Users\Alejandro\source\repos\Clase3\Clase3\bin\Debug\netcoreapp3.1\Clase3.pdb
+C:\Users\Alejandro\source\repos\Clase3\Clase3\obj\Debug\netcoreapp3.1\Clase3.dll
+C:\Users\Alejandro\source\repos\Clase3\Clase3\obj\Debug\netcoreapp3.1\Clase3.pdb
+C:\Users\Alejandro\source\repos\Clase3\Clase3\obj\Debug\netcoreapp3.1\Clase3.genruntimeconfig.cache
