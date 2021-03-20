@@ -141,12 +141,12 @@ namespace ConsoleApp2
          public static void prueba()
         {
             ArbolBinarioBusqueda ArBus = new ArbolBinarioBusqueda();
-            string[] nombres = {"Luis", "Majo", "Ana", "Zully", "Alex"};
+            string[] nombres = {"Karla", "Alejandro", "Beto", "Sarah", "Delia", "Carlos" };
             Estudiante es = new Estudiante();
             foreach (String d in nombres)
             {
                 es.nombre = d;
-                es.numMat = 5;
+                es.numMat = 6;
                // es.descripcion = $"insertar No.{d}";
                 ArBus.insertar(es);
                 es = new Estudiante();
