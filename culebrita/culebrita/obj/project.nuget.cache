@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pI329bNFQ5IUcj8HGVdA5BqZQCdT1cKu1mgUOTZpN0b17u93s/E1nNW9u3Aa2Ky/zybBjXa6uX3gylSkmbnw6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mynor\\Downloads\\culebrita\\culebrita\\culebrita\\culebrita.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mynor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mynor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mynor\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mynor\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.14\\microsoft.netcore.app.host.win-x86.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
